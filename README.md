@@ -1,4 +1,8 @@
 # TallyXmlTester
+Command To Run
+
+ng serve --proxy-config proxy.conf.json
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
 
